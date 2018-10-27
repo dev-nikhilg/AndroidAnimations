@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android Animations</string>
+    <string name="animation_drawable">Animation Drawable</string>
 </resources>
